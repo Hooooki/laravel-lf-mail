@@ -7,6 +7,7 @@
             "email": "fragan.fournet@gmail.com"
         }
     ],
+	"license": "MIT",
     "minimum-stability": "alpha",
     "require": {
         "php": ">=7.2",
