@@ -1,0 +1,21 @@
+{
+    "name": "hooooki/laravel-lf-mail",
+    "description": "Mail sending library without SMTP or POP configuration",
+    "authors": [
+        {
+            "name": "Hooooki",
+            "email": "fragan.fournet@gmail.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {
+        "php": ">=7.2",
+        "illuminate/support": "^7",
+        "illuminate/mail": "^7"
+    },
+    "autoload": {
+        "psr-4": {
+            "oHooki\\LFMail\\": "src/"
+        }
+    }
+}
